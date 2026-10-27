@@ -66694,5 +66694,12 @@
     "author": "CJ Zhou",
     "description": "Remember and restore each canvas's last position and zoom. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "starsyork/canvas-view-memory"
+  },
+  {
+    "id": "wechat-channels-importer",
+    "name": "Input Collector",
+    "author": "xibao_classmate",
+    "description": "Collect WeChat Channels, public X posts, Xiaohongshu notes, YouTube videos, and Douyin videos with media and metadata.",
+    "repo": "Iris-lover/obsidian-wechat-channels-importer"
   }
 ]
